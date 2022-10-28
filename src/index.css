@@ -1,0 +1,11 @@
+.flex-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.flex-container > div{
+    background-color:#6cc3c1;
+    border:none;
+     border-radius: 5px;
+    padding:10px;
+}
